@@ -10,7 +10,9 @@
     <string name="calories_main">Calories:</string>
     <string name="protein_main">Protein:</string>
     <string name="fats_main">Fats:</string>
+    <string name="settings">Settings</string>
     <string name="carbohydrates_main">Carbo \nhydrates:</string>
     <string name="some_calorie_statistic">1500 / 1500 ccal</string>
     <string name="some_grams">100 / 100 g</string>
+    <string name="daily_rate">Daily rate:</string>
 </resources>
