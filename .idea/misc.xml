@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/background_appbar.xml" value="0.2578125" />
+        <entry key="app/src/main/res/drawable/background_diagramm_white.xml" value="0.25625" />
+        <entry key="app/src/main/res/drawable/bt_meal.xml" value="0.25625" />
         <entry key="app/src/main/res/drawable/ic_back.xml" value="0.2578125" />
+        <entry key="app/src/main/res/drawable/ic_backgroung_diargamm_green.xml" value="0.25625" />
         <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.2578125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33572187169723633" />
       </map>
