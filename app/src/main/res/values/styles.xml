@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <style name="bt_meal">
         <item name="android:layout_width">150dp</item>
         <item name="android:layout_height">80dp</item>
         <item name="android:background">@drawable/bt_meal</item>
         <item name="android:textAllCaps">false</item>
         <item name="android:theme">@style/bt_color</item>
+        <item name="android:textSize">20sp</item>
     </style>
 
     <style name="bt_color">
         <item name="colorPrimary">@color/main_green_dark</item>
+    </style>
+
+    <style name="main_statistic_title">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/main_green_dark</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+    </style>
+    <style name="main_statistic_count">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/main_green_simple</item>
     </style>
 </resources>
