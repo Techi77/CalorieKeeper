@@ -15,4 +15,7 @@
     <string name="some_calorie_statistic">1500 / 1500 ccal</string>
     <string name="some_grams">100 / 100 g</string>
     <string name="daily_rate">Daily rate:</string>
+    <string name="enter_calories">enter calories</string>
+    <string name="gram">gram</string>
+
 </resources>
